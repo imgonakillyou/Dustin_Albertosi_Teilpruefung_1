@@ -1,0 +1,32 @@
+# Abhängigkeiten
+node_modules/
+
+# Generierte Build-Ausgaben
+dist/
+build/
+coverage/
+
+# Temporäre Dateien und Caches
+tmp/
+temp/
+.cache/
+*.tmp
+*.temp
+*.swp
+*~
+
+# Log-Dateien
+*.log
+
+# Lokale Editor-Einstellungen
+.vscode/
+.idea/
+
+# Betriebssystemdateien
+.DS_Store
+Thumbs.db
+
+# Lokale Konfiguration und Zugangsdaten
+.env
+.env.*
+!.env.example
